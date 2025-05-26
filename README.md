@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKopoer&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![CKopoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKopoer&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CKopoer&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## ✨ About me
+
+* Developer / MAN
+* C++ / Python / Java / TypeScript
 
 <!--
 **CKopoer/CKopoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
